@@ -1,4 +1,4 @@
 [package]
-name = "FIXEngine-rs"
+name = "fix"
 version = "0.1.0"
 authors = ["Chris Kolek <christopher.w@kolek.me>"]
